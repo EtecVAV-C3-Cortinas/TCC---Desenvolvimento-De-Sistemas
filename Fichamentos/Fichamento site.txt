@@ -1,0 +1,22 @@
+
+
+Cabeçalho:
+
+Fichamento: A Ascensão da DeepSeek e o Impacto no Mercado e na Geopolítica
+
+Referência Bibliográfica:
+
+NEXO JORNAL. DeepSeek: inteligência artificial, China e geopolítica. 28 de janeiro de 2025. Disponível em: [https://www.nexojornal.com.br/expresso/2025/01/28/deepseek-inteligencia-artificial-china-geopolitica](https://www.nexojornal.com.br/expresso/2025/01/28/deepseek-inteligencia-artificial-china-geopolitica).
+
+Texto:
+
+A DeepSeek é uma plataforma de inteligência artificial desenvolvida na China, que se destacou por se tornar a mais baixada nas lojas de aplicativos dos EUA e da China logo após o lançamento de sua versão R-1. A principal inovação da plataforma está no fato de ter sido construída com um orçamento muito inferior ao dos seus concorrentes e adotar um modelo de código aberto, permitindo que qualquer pessoa baixe, use, modifique e distribua o software gratuitamente. Criada em 2023 por Liang Wenfeng, engenheiro chinês, a plataforma utiliza a técnica de deep learning (aprendizagem profunda), que permite otimizar modelos menores a partir de modelos maiores, mantendo baixos custos operacionais. Para o desenvolvimento da DeepSeek, foram usados cerca de 2.000 processadores gráficos da Nvidia, com um investimento de cerca de US$ 6 milhões, enquanto seus concorrentes costumam investir bilhões de dólares com o uso de cerca de 15.000 dessas placas.
+
+O impacto da DeepSeek no mercado foi imediato, com a queda das ações da Nvidia e de outras empresas do setor de inteligência artificial. Especialistas destacaram que a DeepSeek se mostrou tão eficiente quanto as plataformas de grandes empresas, mas com um custo muito menor, desafiando a ideia de que grandes investimentos e tecnologias avançadas são essenciais para a inovação. Isso levou a uma reavaliação da demanda por chips de alta tecnologia e, consequentemente, a uma queda significativa no valor de mercado de várias empresas do setor.
+
+A ascensão da DeepSeek também tem implicações geopolíticas significativas. A disputa tecnológica entre os EUA e a China já dura mais de uma década, com a IA se tornando um ponto central dessa rivalidade. A China tem se dedicado ao desenvolvimento de inovações no setor digital e de IA, tornando-se o maior produtor de pesquisas acadêmicas na área. A ascensão da DeepSeek demonstra que a China está reduzindo a lacuna tecnológica com os EUA, o que aumenta as tensões entre as duas potências.
+
+Em resposta ao sucesso da DeepSeek, o ex-presidente dos EUA, Donald Trump, afirmou que o surgimento da plataforma deveria servir como um alerta para a indústria americana, ressaltando a necessidade de competir com soluções mais econômicas. Isso reflete um movimento do governo americano em direção ao fortalecimento da indústria tecnológica doméstica, com investimentos como o plano Stargate, que visa o desenvolvimento da infraestrutura tecnológica dos EUA.
+
+Portanto, a DeepSeek não só alterou o cenário econômico, desafiando grandes empresas do setor de IA com um modelo mais barato e eficiente, mas também se tornou um elemento importante na disputa geopolítica entre os EUA e a China pela liderança tecnológica.
+
