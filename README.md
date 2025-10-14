@@ -1,4 +1,4 @@
-# 🌐 Inteligência Artificial e Geopolítica Mundial
+#  Inteligência Artificial e Geopolítica Mundial
 
 > Trabalho de Conclusão de Curso (TCC) – ETEC Vasco Antônio Venchiarutti  
 > Curso Técnico em Desenvolvimento de Sistemas – 2025  
@@ -7,7 +7,7 @@
 
 ---
 
-## 🧠 Sobre o Projeto
+##  Sobre o Projeto
 
 Este projeto analisa **como a Inteligência Artificial (IA)** influencia as relações de poder entre os países, especialmente nas áreas de **economia, segurança cibernética, defesa e diplomacia**.  
 O estudo busca compreender de que forma o domínio da IA redefine a **geopolítica global**, comparando a rivalidade tecnológica atual entre **Estados Unidos e China** com a corrida espacial da Guerra Fria.
