@@ -42,4 +42,32 @@ Baseada em autores como:
 
 ---
 
+## ⚙️ Estrutura do Projeto
+
+
+### 🧩 Principais Tópicos Abordados
+
+1. **Definição e evolução da IA**  
+2. **O impacto da IA na geopolítica atual**  
+3. **A corrida tecnológica EUA x China**  
+4. **O caso DeepSeek e o “momento Sputnik” da IA**  
+5. **Riscos éticos e dependência tecnológica**  
+6. **Cenários futuros e considerações finais**
+
+---
+
+### 📈 Resultados e Conclusões
+
+O estudo demonstra que a corrida pela supremacia em IA **transcende a tecnologia**, sendo uma nova forma de disputa por **poder global**.  
+A dominância em IA garante **vantagens econômicas, militares e diplomáticas**, mas também gera riscos éticos e estratégicos que precisam ser enfrentados por meio de **cooperação internacional e regulação ética**.
+
+---
+
+### 🧾 Referências
+
+As referências completas estão listadas no arquivo `TCC.pdf`, baseadas em fontes acadêmicas, relatórios de pesquisa e artigos de tecnologia de 2021 a 2025.
+
+---
+
+##  “Dominar a inteligência artificial é compreender o novo mapa do poder mundial.”  
 
